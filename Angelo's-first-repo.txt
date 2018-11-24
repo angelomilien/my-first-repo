@@ -6,6 +6,7 @@ orange
 blue
 red
 green
+Indigo
 Unicorn
 yellow
 these are the colors of the rainbows
